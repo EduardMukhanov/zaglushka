@@ -1,6 +1,6 @@
-package controllers;
+package example.zaglushka.controllers;
 
-import models.ZaglushkaUser;
+import example.zaglushka.models.ZaglushkaUser;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;

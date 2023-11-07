@@ -1,4 +1,4 @@
-package models;
+package example.zaglushka.models;
 
 import java.time.LocalDate;
 
